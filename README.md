@@ -5,6 +5,8 @@
 Run following commands inside the `src\app` directory respectively.
 
 ```
+npm install
+composer install
 composer run dev
 ```
 
